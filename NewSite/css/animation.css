@@ -1,0 +1,12 @@
+.nav a:hover{
+    color: #E3B873;
+    transition: all 0.2s;
+}
+.arrow:hover{
+    opacity: 0.6;
+    cursor: pointer;
+}
+.form_input_third:hover{
+    cursor: pointer;
+
+}
